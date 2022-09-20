@@ -1,5 +1,5 @@
 import Ej1a3 from "./components/Ej1a3";
-import './app.css'
+import './App.css'
 
 function App() {
   let myFriend = "my friend"
